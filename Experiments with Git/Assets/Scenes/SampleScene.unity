@@ -774,9 +774,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97bd8b8190802fe4d809f5359c05f357, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxSpeed: 5
-  jumpHeight: 5
-  gravityScale: 5
+  maxSpeed: 6.6
+  jumpHeight: 6.6
+  gravityScale: 6.6
   mainCamera: {fileID: 0}
 --- !u!61 &2070898418
 BoxCollider2D:
